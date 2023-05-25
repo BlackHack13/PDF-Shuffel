@@ -1,4 +1,4 @@
 # PDF-Shuffel
-Shuffel .pdf files with Python
+Shuffel PDF files with Python
 
 install PyPDF2: pip install PyPDF2
